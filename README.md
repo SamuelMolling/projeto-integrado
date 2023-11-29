@@ -6,7 +6,7 @@ Antes de começar leia a documentação do projeto [aqui](https://github.com/sam
 
 ## Issues e Bugs
 
-Para abrir uma Issue ou um Bug, [clique aqui](https://github.com/samuelmolling/projeto-integrado/issues/new)
+Para abrir uma Issue ou um Bug, [clique aqui](https://github.com/samuelmolling/projeto-integrado/issues/new).
 
 ## Contribuição
 
