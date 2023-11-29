@@ -14,4 +14,4 @@ Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contrib
 
 ## Arquitetura básica do sistema
 
-![Arquitetura](https://github.com/samuelmolling/projeto-integrado/tree/main/docs/images/aws_iot.png)
+![Arquitetura](https://github.com/samuelmolling/projeto-integrado/tree/main/docs/images/aws_iot.png?raw=true)
