@@ -2,7 +2,7 @@
 
 Bem vindo(a) ao projeto LumenAI!
 
-Antes de começar leia a documentação do projeto [aqui](https://github.com/samuelmolling/projeto-integrado/tree/main/docs/trab2_doc_projeto).
+Antes de começar leia a documentação do projeto [aqui](https://github.com/samuelmolling/projeto-integrado/tree/main/docs/trab2_doc_projeto.html).
 
 ## Issues e Bugs
 
