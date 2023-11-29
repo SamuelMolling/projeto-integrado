@@ -6,6 +6,8 @@ Antes de começar leia a documentação do projeto [aqui](https://github.com/sam
 
 ## Issues e Bugs
 
+Para abrir uma Issue ou um Bug, [clique aqui](https://github.com/samuelmolling/projeto-integrado/issues/new)
+
 ## Contribuição
 
-jude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/samuelmolling/projeto-integrado/tree/main/CONTRIBUTING.md)** e a **[licença](https://github.com/samuelmolling/projeto-integrado/tree/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
+Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/samuelmolling/projeto-integrado/tree/main/CONTRIBUTING.md)** e a **[licença](https://github.com/samuelmolling/projeto-integrado/tree/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!

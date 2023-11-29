@@ -8,3 +8,5 @@ Este é um projeto totalmente livre que aceita contribuições via pull requests
 2. Envie seus commits em português.
 3. Insira um pequeno resumo sobre o que foi adicionado.
 4. Solicite um pull request.
+
+Exemplo de Pull Request é possível ver [aqui](https://github.com/SamuelMolling/projeto-integrado/pull/1)
