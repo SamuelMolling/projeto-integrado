@@ -4,6 +4,10 @@ Bem vindo(a) ao projeto LumenAI!
 
 Antes de começar leia a documentação do projeto [aqui](https://github.com/samuelmolling/projeto-integrado/tree/main/docs/trab2_doc_projeto.html).
 
+## Build e Deploy
+
+Para realizar o build e deploy, após abrir o seu PR irá rodar a action para testar seu código e realizar o build, gerando um artefato. Exemplo pode ver [aqui](https://github.com/SamuelMolling/projeto-integrado/actions/runs/7040459590/job/19161414121)
+
 ## Issues e Bugs
 
 Para abrir uma Issue ou um Bug, [clique aqui](https://github.com/samuelmolling/projeto-integrado/issues/new).
