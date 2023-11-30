@@ -1,4 +1,4 @@
-# LumenAI 💡
+# LumenAI 💡 ![example workflow](https://github.com/SamuelMolling/projeto-integrado/actions/workflows/WORKFLOW-FILE/badge.svg)
 
 Bem vindo(a) ao projeto LumenAI!
 
